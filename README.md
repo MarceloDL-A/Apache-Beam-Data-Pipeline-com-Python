@@ -32,7 +32,7 @@
 
 - O que é e como vamos estruturar o estágio bruto do data lake;
 
-- Os 3 Vs do Big Data;
+- Os 3 Vs do Big Data -> Velocidade, Volume, Variedade;
 
 - O que são e como criar plugins no Airflow.
 
